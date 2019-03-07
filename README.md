@@ -9,3 +9,4 @@ How to run this project:
   3) Build the solution then close Microsfot Visual Studio
   4) Open up "sigapp" folder -> "vs2017" folder -> open up sigapp VC++ project
   5) Build the soltuion then run the project
+  6) Once robot and town is loaded, you are ready to explore
