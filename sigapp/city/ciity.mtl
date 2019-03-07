@@ -1,0 +1,346 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.05.2018 04:03:35
+
+newmtl Material_636
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\48.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\48.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\50.png
+
+newmtl Material_637
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\51.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\51.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\53.png
+
+newmtl Material_638
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\54.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\54.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\56.png
+
+newmtl Material_639
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\57.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\57.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\59.png
+
+newmtl Material_640
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\60.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\60.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\62.png
+
+newmtl Material_641
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\63.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\63.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_642
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\65.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\65.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_643
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\67.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\67.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_644
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\69.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\69.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_645
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\71.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\71.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\73.png
+
+newmtl Material_646
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\74.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\74.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\76.png
+
+newmtl Material_647
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\78.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\78.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\80.png
+
+newmtl Material_648
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\81.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\81.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\83.png
+
+newmtl Material_649
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\86.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\86.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\88.png
+
+newmtl Material_650
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\90.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\90.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\92.png
+
+newmtl Material_651
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\95.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\95.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\97.png
+
+newmtl Material_652
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\100.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\100.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\102.png
+
+newmtl Material_653
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\105.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\105.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\107.png
+
+newmtl Material_654
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\109.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\109.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_655
+	Ns 43.2147
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.4980 0.4980 0.4980
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\111.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\111.png
+
+newmtl Material_656
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\112.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\112.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\64.png
+
+newmtl Material_657
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\114.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\114.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\116.png
+
+newmtl Material_658
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\114.png
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\114.png
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\c2.fbm\116.png

@@ -1,0 +1,28 @@
+﻿==================================================================
+          Standalone Interactive Graphics (SIG) Toolkit
+           Copyright (c) 2018 Marcelo Kallmann
+==================================================================
+
+===== Todo ====
+
+- Review file loading by GsModel and KnSkeleton
+- Review title of example programs
+- Port to linux and macos
+- Shader support for multiple lights
+- Revise GsTable pointer manager
+
+===== Searchable Labels Tracking Work in Progress =====
+
+- CamDev:   updates to camera control
+- UiDev:	user interface development
+- SgDev:	scene graph development
+- ManipDev: development to include rotation in SnManipulator
+- TodoNote: functionality not yet implemented
+- ImprNote: possible functionality improvement
+- PerfNote: note concerning performance
+
+===== State of Examples =====
+
+- uidemo: review/test alignment groups, add "about" cmd
+- shapes: flat shading seems not correct
+- skelviewer: add loading of motions, and skin

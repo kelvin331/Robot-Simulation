@@ -1,0 +1,12 @@
+==================================================================
+          Standalone Interactive Graphics (SIG) Toolkit
+               Copyright (c) 2018 Marcelo Kallmann
+==================================================================
+
+
+The author is thankful to the University of California for being supportive to the development of this project.
+
+This software includes public domain files stb_image.h and stb_image_write.h.
+
+[new contributions to be appended here]
+

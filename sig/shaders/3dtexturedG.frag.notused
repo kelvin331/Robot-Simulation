@@ -1,0 +1,22 @@
+# version 330
+
+in  vec4 Color;
+in  vec2 Texc;
+out vec4 fColor;
+
+uniform int Mode; // 0:textured, 1:not textured
+uniform sampler2D TexId; // diffuse color texture
+
+void main()
+{
+	// When condition is uniform (cte for the entire pass) branching is free
+	// because specific versions of the shader should be compiled.
+
+	if ( Mode==0 )
+	{	vec4 kd = texture2D ( TexId, Texc );
+		fColor = Color*0.1 + 0.9*kd;
+	}
+	else
+	{	fColor = Color;
+	}
+}

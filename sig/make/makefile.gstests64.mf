@@ -1,0 +1,23 @@
+SRCDIR = $(ROOT)/examples/gstests/
+BIN = $(ROOT)/make/gstests64.x
+
+CPPFILES := $(shell echo $(SRCDIR)*.cpp)
+OBJFILES = $(CPPFILES:.cpp=.o)
+OBJECTS = $(notdir $(OBJFILES))
+DEPENDS = $(OBJECTS:.o=.d)
+
+$(BIN): $(OBJECTS)
+	echo "creating:" $(BIN);
+	$(CC) $(OBJECTS) $(LFLAGS64) -o $(BIN)
+
+%.o: $(SRCDIR)%.cpp
+	echo "compiling:" $<;
+	$(CC) -c $(CFLAGS64) -Wno-unused-variable -Wno-unused-function $< -o $@
+
+%.d: $(SRCDIR)%.cpp
+	echo "upddepend:" $<;
+	$(CC) -MM $(CFLAGS64) $< > $@
+
+ifneq ($(MAKECMDGOALS),clean)
+-include $(DEPENDS)
+endif

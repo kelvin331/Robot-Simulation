@@ -1,0 +1,273 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.05.2018 01:19:15
+
+newmtl InstrumentPanel
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_DASH.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_DASH.jpg
+	map_Ke C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_DASH.jpg
+
+newmtl Glass1
+	Ns 74.0000
+	Ni 1.5000
+	d 0.2893
+	Tr 0.7107
+	Tf 0.2893 0.2893 0.2893 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0287 0.0287 0.0287
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl OtherPanel
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_CCON.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_CCON.jpg
+
+newmtl InteriorGenericSteelPanels
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2645 0.2645 0.2645
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl RHBodyTex
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSCR.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSCR.jpg
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSSP.jpg
+	map_bump C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_SBMP.jpg
+	bump C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_SBMP.jpg
+
+newmtl Headlight
+	Ns 0.0000
+	Ni 1.5000
+	d 0.4876
+	Tr 0.5124
+	Tf 0.4876 0.4876 0.4876 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4816 0.5351 0.5620
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Trim2
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6016 0.6016 0.6016
+	Ks 0.8926 0.8926 0.8926
+	Ke 0.0000 0.0000 0.0000
+
+newmtl PaintedBlackSteel
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1256 0.1256 0.1256
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl GlossyWhite
+	Ns 92.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5818 0.5818 0.5818
+	Ks 0.8430 0.8430 0.8430
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Aluminum
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3744 0.4000 0.3688
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Mirror
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.7190 0.7190 0.7190
+	Ke 0.0000 0.0000 0.0000
+
+newmtl ReflectorRed
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2562 0.0000 0.0000
+	Kd 0.8000 0.1304 0.1447
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl TopTex
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.1983 0.1983 0.1983
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OTC.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OTC.jpg
+
+newmtl LHBodyTex
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSCL.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSCL.jpg
+	map_Ks C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OSSP.jpg
+	map_bump C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_SBMP.jpg
+	bump C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_SBMP.jpg
+
+newmtl FlatBlack
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl BottomTex
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3294 0.3294 0.3294
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OBC.jpg
+	map_Kd C:\Users\zekek\Desktop\cse 170\project 2\sigapp\SeaHawk\Textures\TEX_OBC.jpg
+
+newmtl FrontSeat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3297 0.3004 0.4000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl FrontSeatHeadrest
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5567 0.5440 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl SafetyOrange
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.2518 0.1336
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl TireTread
+	Ns 36.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1570 0.1570 0.1570
+	Ks 0.3967 0.3967 0.3967
+	Ke 0.0000 0.0000 0.0000
+
+newmtl PropellerGray
+	Ns 52.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3961 0.3961 0.3961
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000

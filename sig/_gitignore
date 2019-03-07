@@ -1,0 +1,24 @@
+# Visual Studio local files
+.vs/
+obj/
+*.pch
+*.user
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+
+# Executables
+*.x
+*.out
+*.exe
+
+# Doc local files
+*.tps
